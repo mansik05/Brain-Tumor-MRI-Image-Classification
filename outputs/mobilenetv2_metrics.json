@@ -1,0 +1,13 @@
+{
+  "accuracy": 0.8130081300813008,
+  "macro_precision": 0.8395257317080651,
+  "macro_recall": 0.8153982426303854,
+  "macro_f1": 0.8088353655242173,
+  "num_test_images": 246,
+  "classes": [
+    "glioma",
+    "meningioma",
+    "no_tumor",
+    "pituitary"
+  ]
+}
